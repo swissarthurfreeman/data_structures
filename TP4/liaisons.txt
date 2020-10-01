@@ -1,0 +1,26 @@
+Paris 54 Tokyo 709 Berlin 106 Madrid 114
+Paris 101
+Geneve 46 Paris 60
+Montreal 769 Paris 720 Londres 709
+Paris 10 Londres 54 Berlin 101 Tokyo 720 Geneve 60
+Paris 418 Tokyo 769 Londres 398
+Geneve 97
+Tokyo 726 Paris 60 Londres 90
+
+Noeud courant = Londres 
+Noeuds adjacents : Berlin 
+ Noeuds adjacents : Tokyo 
+ Noeuds adjacents : Paris 
+ Noeuds adjacents : Madrid 
+ Noeud courant = Berlin 
+Noeud courant = Tokyo 
+Noeuds adjacents : Montreal 
+ Noeud courant = Paris 
+Noeuds adjacents : Milan 
+ Noeuds adjacents : Geneve 
+ Noeud courant = Madrid 
+Noeud courant = Montreal 
+Noeud courant = Milan 
+Noeud courant = Geneve 
+
+
